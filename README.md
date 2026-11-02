@@ -9,7 +9,8 @@ To detect edges in an image using the Canny Edge Detection algorithm with OpenCV
 - Matplotlib
 
 ## Program
-
+## NAME : NIKILA D
+## REG NO : 212224230187
 ```python
 import cv2
 import matplotlib.pyplot as plt
